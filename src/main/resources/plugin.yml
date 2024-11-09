@@ -1,5 +1,5 @@
-name: ObsidianBoom
+name: ObsidianExplosion
 main: opobb.Main
 version: "${pom.version}"
-api: ["1.0.0"]
+api: ["1.1.0"]
 author: PetteriM1

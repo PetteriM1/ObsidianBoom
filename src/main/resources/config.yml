@@ -1,0 +1,4 @@
+# you can change blast resistance of any block here
+# by default, we set obsidian's (id=49) resistance to 30.0 which is the same as stone's
+resistance:
+  49: 30.0
